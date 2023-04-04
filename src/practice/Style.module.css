@@ -1,0 +1,12 @@
+.headingStyle{
+    text-align: center;
+    background-color: rgb(73, 212, 212);
+    color: black;
+    margin: auto;
+
+}
+.paraStyle{
+    text-align: center;
+    background-color: black;
+    color: azure;
+}
