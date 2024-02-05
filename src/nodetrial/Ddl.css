@@ -1,0 +1,23 @@
+.dropdown-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .country-dropdown {
+    position: relative; /* Ensure the container is relative for absolute positioning */
+    margin-bottom: 10px; /* Add spacing between country and state dropdowns */
+  }
+  
+  .state-dropdown {
+    display: none; /* Initially hide the state dropdown */
+    position: absolute;
+    top: 0;
+    left: 100%; /* Position it to the right of the country dropdown */
+    margin-left: 10px; /* Add some spacing between the country and state dropdowns */
+  }
+  
+  .country-dropdown:hover .state-dropdown {
+    display: block; /* Show the state dropdown when hovering over the country dropdown */
+  }
+  
