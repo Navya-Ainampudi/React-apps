@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "username": "navya",
+      "Email": "navya.ainumpudi@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 3,
+      "address": {
+        "fullName": "Navya Krishna",
+        "contactNumber": "9700302282",
+        "address": "VS Golden avenues",
+        "city": "hyd",
+        "state": "telangana",
+        "postalCode": "500090",
+        "country": "India"
+      },
+      "card": {
+        "cardType": "visa",
+        "cardHolderName": "navya krishna",
+        "cardNumber": "1234567899638524",
+        "expiry": "12/2025",
+        "cvv": "123"
+      }
+    },
+    {
+      "username": "lali",
+      "Email": "lali@gmail.com",
+      "password": "963",
+      "confirmPassword": "963",
+      "id": 4,
+      "address": {
+        "fullName": "lali",
+        "addressLine1": "bapatla",
+        "addressLine2": "bapatla dt",
+        "city": "guntur",
+        "state": "ap",
+        "postalCode": "500311",
+        "country": "India"
+      }
+    },
+    {
+      "username": "siva",
+      "Email": "siva@gmail.com",
+      "password": "000",
+      "confirmPassword": "000",
+      "id": 5
+    }
+  ]
+}
