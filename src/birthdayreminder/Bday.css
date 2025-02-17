@@ -1,0 +1,8 @@
+.home {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('https://t4.ftcdn.net/jpg/05/10/67/35/240_F_510673550_JebLvav2JN2TdGKSAYOlCtRGiFPYEixH.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
